@@ -1,7 +1,7 @@
 [![](https://jitpack.io/v/JurijTSL/jcon.svg)](https://jitpack.io/#JurijTSL/jcon)
 
 # jCon (Java Console)
-jCon is easy to use Java library that is used to create simple command line console for Java-based applications.
+jCon is easy to use Java library that is used to create a simple command-line interface for Java-based applications.
 
 ## Documentation
 All methods are documented is [Wiki](https://github.com/JurijTSL/jcon/wiki) section.
