@@ -4,7 +4,7 @@
 jCon is easy to use Java library that is used to create a simple command-line interface for Java-based applications.
 
 ## Documentation
-All methods are documented is [Wiki](https://github.com/JurijTSL/jcon/wiki) section.
+All methods <strike>are</strike> will be documented in the [Wiki](https://github.com/JurijTSL/jcon/wiki) section.
 
 ## Installation
 **MAVEN**
