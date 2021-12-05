@@ -1,10 +1,10 @@
-[![](https://jitpack.io/v/JurijTSL/jcon.svg)](https://jitpack.io/#JurijTSL/jcon)
+[![](https://jitpack.io/v/chocoearly44/jCon.svg)](https://jitpack.io/#chocoearly44/jCon)
 
 # jCon (Java Console)
 jCon is easy to use Java library that is used to create a simple command-line interface for Java-based applications.
 
 ## Documentation
-All methods <strike>are</strike> will be documented in the [Wiki](https://github.com/JurijTSL/jcon/wiki) section.
+All methods <strike>are</strike> will be documented in the [Wiki](https://github.com/chocoearly44/jcon/wiki) section.
 
 ## Installation
 **MAVEN**
@@ -21,9 +21,9 @@ All methods <strike>are</strike> will be documented in the [Wiki](https://github
 2. Add dependency
 ```xml
 <dependency>
-  <groupId>com.github.JurijTSL</groupId>
-  <artifactId>jcon</artifactId>
-  <version>TAG</version>
+  <groupId>com.github.chocoearly44</groupId>
+  <artifactId>jCon</artifactId>
+  <version>Tag</version>
 </dependency>
 ```
 
@@ -41,11 +41,11 @@ allprojects {
 2. Add dependency
 ```gradle
 dependencies {
-  implementation 'com.github.JurijTSL:jcon:TAG'
+  implementation 'com.github.chocoearly44:jCon:Tag'
 }
 ```
 
 ## Support
 You can receive additional support in an official Discord Server.
 
-[![Widget for the TSL Support guild](https://discord.com/api/guilds/807666401300316160/widget.png?style=banner1)](https://discord.gg/Wa24skGscR)
+[![Widget for the SuperLab Support guild](https://discord.com/api/guilds/807666401300316160/widget.png?style=banner1)](https://discord.gg/Wa24skGscR)
